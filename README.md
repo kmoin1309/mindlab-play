@@ -9,7 +9,7 @@ A modern brain training game platform built with Next.js and FastAPI. Challenge 
 
 ## ✨ Features
 
-### 🎮 Memory Fiesta
+### 🎮 Memory Game
 - **5×5 Grid Pattern Game** - Watch and recreate increasingly complex patterns
 - **3 Lives System** - Strategic gameplay with visual heart indicators
 - **30-Second Timer** - Race against time for each pattern
@@ -21,9 +21,9 @@ A modern brain training game platform built with Next.js and FastAPI. Challenge 
 - **Beautiful Purple Gradient UI** - Modern, polished design
 
 ### 🎯 Planned Games
-- **Math Fiesta** - Quick arithmetic challenges
-- **Train Fiesta** - Attention and focus training
-- **Word Fiesta** - Vocabulary building exercises
+- **Math Game** - Quick arithmetic challenges
+- **Train Game** - Attention and focus training
+- **Word Game** - Vocabulary building exercises
 
 ## 🛠️ Tech Stack
 
@@ -146,9 +146,9 @@ Or run both with Turbo:
 pnpm dev
 ```
 
-## 🎯 How to Play Memory Fiesta
+## 🎯 How to Play Memory Game
 
-1. Click on **Memory Fiesta** from the dashboard
+1. Click on **Memory Game** from the dashboard
 2. Read the **How to Play** instructions
 3. Watch the pattern of highlighted cells (pink flash)
 4. Click cells in the same order within 30 seconds
@@ -214,9 +214,9 @@ MindLab Play uses **IndexedDB** for offline-first gameplay:
 ## 🛣️ Roadmap
 
 - [ ] Add sound effects
-- [ ] Implement Math Fiesta game
-- [ ] Implement Train Fiesta game  
-- [ ] Implement Word Fiesta game
+- [ ] Implement Math Game game
+- [ ] Implement Train Game game  
+- [ ] Implement Word Game game
 - [ ] Global leaderboards
 - [ ] User authentication
 - [ ] Daily challenges
@@ -241,8 +241,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/kmoin1309)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/md-moinuddin-quazi-7a5942244/)
 
 ## 🙏 Acknowledgments
 
